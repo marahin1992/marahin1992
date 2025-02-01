@@ -7,7 +7,7 @@
 - Имею высшее образование по специальности: 'Автоматизированные системы обработки информации и управления' НИТУ "МИСиС" 2015
 
 
-![image] (https://www.codewars.com/users/marahin1992/badges/large)
+
 
 <!---
 marahin1992/marahin1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
